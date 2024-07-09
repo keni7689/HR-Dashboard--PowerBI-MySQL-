@@ -1,4 +1,5 @@
 # HR-Dashboard-PowerBI+MySQL-
+![hr dashboard](https://github.com/keni7689/HR-Dashboard--PowerBI-MySQL-/assets/103092905/857492f6-dbc8-4a1c-a496-6c87a4eb6724)
 
 # HR Data Analysis
 
